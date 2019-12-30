@@ -104,7 +104,7 @@ venv.bak/
 .mypy_cache/
 
 # result images
-*.png
+# *.png
 
 # backup files
 *~
